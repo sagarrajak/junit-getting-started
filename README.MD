@@ -1,0 +1,1 @@
+## This is project used for learn testing using junit5 spring boot and mokito
